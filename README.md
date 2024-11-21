@@ -1,6 +1,5 @@
 
 # Whatsapp Chat Analyser
-Site is Live @: https://wts-app.onrender.com/
 ## Overview
 This Streamlit web application analyzes WhatsApp chat data to provide insights and visualizations of chat statistics. You can upload your WhatsApp chat history and explore various metrics such as total messages, words, media shared, links shared, monthly and daily timelines, activity maps, word clouds, common words, and emoji analysis.
 
